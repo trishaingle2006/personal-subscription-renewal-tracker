@@ -1,0 +1,5 @@
+.env
+vendor/
+storage/sessions/*
+!storage/sessions/.gitkeep
+
